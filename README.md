@@ -57,11 +57,3 @@ After checking the current Cursor version and experimenting with the interface, 
 ### Claude Opus Access
 ![Claude Opus](claude-opus.png.jpg)
 
-
-
-
-### Cursor Update Check
-![Cursor Update](cursor-update-check.png.jpg)
-
-### Marketplace Search
-![Marketplace](marketplace-search-codex.png.jpg)
