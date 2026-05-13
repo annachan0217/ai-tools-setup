@@ -35,8 +35,21 @@ After checking the current Cursor version and experimenting with the interface, 
 - The importance of researching and troubleshooting independently
 
 ## Screenshots
-Screenshots of the setup process and AI model access will be added to this repository.
-## Screenshots
+
+### Marketplace Search
+![Marketplace](marketplace-search-codex.png.jpg)
+
+### Cursor Update Check
+![Cursor Update](cursor-update-check.png.jpg)
+
+### Cursor Version
+![Cursor Version](cursor-version.png.jpg)
+
+### Codex Search
+![Codex Search](codex-search.png.jpg)
+
+### Codex Model Access
+![Codex](codex-model.png.jpg)
 
 ### Claude Sonnet Access
 ![Claude Sonnet](claude-sonnet.png.jpg)
@@ -44,14 +57,8 @@ Screenshots of the setup process and AI model access will be added to this repos
 ### Claude Opus Access
 ![Claude Opus](claude-opus.png.jpg)
 
-### Codex Model Access
-![Codex](codex-model.png.jpg)
 
-### Codex Search
-![Codex Search](codex-search.png.jpg)
 
-### Cursor Version
-![Cursor Version](cursor-version.png.jpg)
 
 ### Cursor Update Check
 ![Cursor Update](cursor-update-check.png.jpg)
